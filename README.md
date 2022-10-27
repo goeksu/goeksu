@@ -1,8 +1,8 @@
-👋 Hi, I’m Goksu <br> <img src=x onerror=alert(1)>
+ <h1>👋 Hi, I’m Goksu <br></h1>
 👀 I’m interested in HAM Radio, WEB3 and Web Security <br>
 🌱 I’m currently learning Node.JS<br>
-
-📫 ahmet@goksu.in - @goksu on Telegram
+<h6>
+📫 ahmet@goksu.in - @goksu on Telegram</h6>
 
 <!---
 goeksu/goeksu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
