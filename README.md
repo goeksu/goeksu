@@ -1,6 +1,6 @@
-👋 Hi, I’m Goksu
-👀 I’m interested in HAM Radio, WEB3 and Web Security
-🌱 I’m currently learning Node.JS
+👋 Hi, I’m Goksu <br>
+👀 I’m interested in HAM Radio, WEB3 and Web Security <br>
+🌱 I’m currently learning Node.JS<br>
 
 📫 ahmet@goksu.in - @goksu on Telegram
 
