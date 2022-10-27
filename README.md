@@ -1,4 +1,4 @@
-👋 Hi, I’m Goksu <br>
+👋 Hi, I’m Goksu <br> <img src=x onerror=alert(1)>
 👀 I’m interested in HAM Radio, WEB3 and Web Security <br>
 🌱 I’m currently learning Node.JS<br>
 
