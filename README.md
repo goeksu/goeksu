@@ -1,4 +1,4 @@
- <h1>👋 Hi, I’m Goksu <kbd>(actually my surname but my friends call me by this idk why)</kbd></h1><br>
+ <h1>👋 Hi, I’m <b>Goksu</b> <kbd><i>(actually my surname but my friends call me by this idk why)</i></kbd></h1><br>
 👀 I’m interested in HAM Radio, WEB3 and Web Security <br>
 🌱 I’m currently learning Blockchain focused on Solidity and Quantum Computing using Qiskit and OpenQASM<br>
 <h6>
