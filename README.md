@@ -11,7 +11,7 @@
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeksu&hide=html,css&title_color=eeeeee&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  <hr>
 <p align="center">
-📫 ahmet@goksu.in  | 
+ahmet@goksu.in  | 
  <a href="https://www.qrz.com/db/TA7GOK">
  73 de TA7GOK</a></p>
 
