@@ -11,6 +11,7 @@
  <hr>
 
 📫 ahmet@goksu.in
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=goeksu.visitor-badge&left_color=red&right_color=gray) 
 
 <!---
 hey my curious friend. U R AWESOME. 
