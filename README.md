@@ -2,7 +2,7 @@
 <img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/ezgif.com-gif-maker-2.gif" align="right" width="300"/>
 👀 I’m interested in HAM Radio, Web3 and Web Security <br>
 🌱 I’m currently learning Blockchain focused on Solidity and Quantum Computing using OpenQASM<br><br>
- <img width=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeksu&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeksu&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 <h6>
 📫 ahmet@goksu.in - @goksu on Telegram</h6>
 
