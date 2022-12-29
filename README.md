@@ -1,5 +1,5 @@
  <h1>👋 Hi, I’m <b>Goksu</b> <kbd><i>(actually its my surname but how friends call me by)</i></kbd></h1><br>
-<p align="right"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<img src="https://i.giphy.com/RThN0hOS2GO4M.gif" align="right"/>
 👀 I’m interested in HAM Radio, Web3 and Web Security <br>
 🌱 I’m currently learning Blockchain focused on Solidity and Quantum Computing using Qiskit and OpenQASM<br>
 <h6>
