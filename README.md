@@ -12,7 +12,7 @@
  <hr>
 <p align="center">
 📫 ahmet@goksu.in
- <a href="https://www.qrz.com/db/TA7GOK">
+ <a style="color:#eeeeee"href="https://www.qrz.com/db/TA7GOK">
  73 de TA7GOK</a></p>
 
 <!---
