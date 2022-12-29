@@ -10,7 +10,7 @@
 <br><br>
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeksu&hide=html,css&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  <hr>
-📫 ahmet@goksu.in  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=goeksu.visitor-badge&left_color=red&right_color=gray)  
+📫 ahmet@goksu.in  
 <!---
 hey my curious friend. U R AWESOME. 
 --->
