@@ -1,0 +1,210 @@
+\documentclass[a4paper]{article}
+    \usepackage{fullpage}
+    \usepackage{amsmath}
+    \usepackage{amssymb}
+    \usepackage{textcomp}
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \usepackage[hidelinks]{hyperref}
+    \usepackage[left=2cm, right=2cm, top=2cm]{geometry}
+    \usepackage{longtable}
+    \textheight=10in
+    \pagestyle{empty}
+    \raggedright
+
+    %\renewcommand{\encodingdefault}{cg}
+%\renewcommand{\rmdefault}{lgrcmr}
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
+
+% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\area} [2] {
+    \vspace*{-9pt}
+    \begin{verse}
+        \textbf{#1}   #2
+    \end{verse}
+}
+
+\newcommand{\lineunder} {
+    \vspace*{-8pt} \\
+    \hspace*{-18pt} \hrulefill \\
+}
+
+\newcommand{\header} [1] {
+    {\hspace*{-18pt}\vspace*{6pt} \textsc{#1}}
+    \vspace*{-6pt} \lineunder
+}
+
+\newcommand{\employer} [3] {
+    { \textbf{#1} (#2)\\ \underline{\textbf{\emph{#3}}}\\  }
+}
+
+\newcommand{\contact} [3] {
+    \vspace*{-10pt}
+    \begin{center}
+        {\Huge \scshape {#1}}\\
+        #2 \\ #3
+    \end{center}
+    \vspace*{-8pt}
+}
+
+\newenvironment{achievements}{
+    \begin{list}
+        {$\bullet$}{\topsep 0pt \itemsep -2pt}}{\vspace*{4pt}
+    \end{list}
+}
+
+\newcommand{\schoolwithcourses} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+    \vspace*{5pt}
+}
+
+\newcommand{\school} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+}
+
+% END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
+
+    \begin{document}
+    \vspace*{-40pt}
+
+    
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     Profile
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \vspace*{-2pt}
+  \begin{center}
+    {\Huge \scshape {Ahmet Göksu}}\\
+    \vspace*{2pt}
+    
+    \vspace*{2pt}
+    \href{mailto:ahmet@goksu.in}{ahmet@goksu.in} | \href{tel:+90 (543) 621 11 04}{+90 (543) 621 11 04} | Istanbul\\
+    \vspace*{2pt}
+    \textbf{\href{https://ahmet.goksu.in}{Blog | }}\textbf{\href{https://www.linkedin.com/in/ahmetgoksu}{Linkedin | }}\textbf{\href{https://www.github.com/goeksu}{GitHub | }}\textbf{\href{https://www.hackerrank.com/goeksu}{HackerRank}}\\
+  \end{center}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %
+    %     Education
+    %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+      \header{Education}
+      \vspace{2mm}
+      \textbf{Istanbul Sabahattin Zaim University}\hfill Istanbul\\
+Bachelors Computer Engineering with 100\% scholarship \hfill 2021 - Present\\
+
+\vspace{2mm}
+      \textbf{Erzincan Science High School}\hfill Erzincan\\
+High School Diploma + English Prep Class \hfill 2015 - 2020\\
+{\sl GPA: 82/100}\\
+\vspace{2mm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %
+    %     Experience
+    %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+      \header{Experience}
+      \vspace{2mm}
+
+      \textbf{IZU Blokzincir}\textbf{ | Founder Board Member} \hfill Istanbul | 2022 - Present\\
+          \vspace{-3mm}
+\begin{itemize} \itemsep -3pt
+\item[] Blockchain student club as an UniveChain member.
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     Skills
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \header{Skills}
+  \vspace{2mm}
+  \begin{longtable}{p{4cm}p{12cm}}
+  Programming Languages: & C, Java, PHP, Javascript, Solidity, Python \\
+  Libraries/Frameworks: & Node.JS, Web3.JS, Android SDK \\
+  Tools / Platforms: & Git, Firebase, Burp, Gqrx \\
+  Databases: & MySQL, Mongo \\
+  \end{longtable}
+  \vspace{1mm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %
+    %     Projects
+    %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+      \header{Projects / Open-Source}
+      \vspace{2mm}
+      {\textbf{Twitter Dapp}}\textbf{ | \href{https://github.com/goeksu/Twitter-without-Elon-Dapp}{Link}}\hfill{\sl Typescript, React, Solidity}\\
+          \vspace{-3mm}
+\begin{itemize} \itemsep -3pt
+\item[] Web3 based Twitter Clone 2022
+\end{itemize}
+          \vspace*{3mm}
+      {\textbf{Bank-Z}}\textbf{ | \href{http://bankz.info}{Link}}\hfill{\sl Python, Django, Mongo}\\
+          \vspace{-3mm}
+\begin{itemize} \itemsep -3pt
+\item[] New Generation Bank for New Generation 2022
+\end{itemize}
+          \vspace*{3mm}
+      {\textbf{Coffee Loyality}}\textbf{ | \href{https://github.com/goeksu/CoffeeLoyality}{Link}}\hfill{\sl PHP, MySQL}\\
+          \vspace{-3mm}
+\begin{itemize} \itemsep -3pt
+\item[] Loyality app to register customers by phone number 2021
+\end{itemize}
+          \vspace*{3mm}
+      {\textbf{Conserva}}\textbf{ | \href{https://github.com/goeksu/Conserva}{Link}}\hfill{\sl Java, Android SDK, Javascript, Node.JS, Firebase}\\
+          \vspace{-3mm}
+\begin{itemize} \itemsep -3pt
+\item[] Award-winning automatic location and medical info sender app 2019
+\end{itemize}
+          \vspace*{3mm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+      %
+      %     Certifications
+      %
+      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+      \header{Certifications}
+      \vspace{2mm}
+      • Java - \textbf{\href{https://www.hackerrank.com/certificates/1b2ac3ee91da}{HackerRank}}\\
+\vspace*{1mm}
+      • Ethereum Smart Contract Security - Turkish Cyber Security Cluster\\
+\vspace*{1mm}
+      • Ethereum \& Solidity Practicium - \textbf{\href{https://verified.sertifier.com/en/verify/85223213010096}{Ethereum Foundation}}\\
+\vspace*{1mm}
+      • Harmonised Amateur Radio Ex. Cert. - Ministry of Transport and Infrastructure, Republic of Turkey\\
+\vspace*{1mm}
+      \vspace{2mm}
+
+       \header{Publications}
+      \vspace{2mm}
+      Overview to Internet Traffic of Mobile Applications - Turkish, 9th issue, 2019 - \textbf{\href{https://arkakapimag.com}{Arka Kapi Cybersecurity Magazine}}\\
+      
+
+\vspace*{1mm}
+      \vspace{2mm}
+
+\header{Honors \& Awards}
+      \vspace{2mm} 
+      Yukselen Yildiz Scholarship - Turkish Technology Team Foundation 2022\\
+\vspace*{1mm}
+      Admission for Computer Science - University of California SB 2021\\
+\vspace*{1mm}
+      Product Security Advisory - ASUS 2020\\
+\vspace*{1mm}
+      Regional First Prize in Coding Category - 50. High School Students Research Projects Competition 2019\\
+\vspace*{1mm}
+      Second Prize in Free Category - Erzincan University Roboteam Competition 2019\\
+\vspace*{1mm}
+
+    \ 
+    \end{document}
