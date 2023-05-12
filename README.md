@@ -6,7 +6,7 @@
 
 👀 I’m interested in HAM Radio, Web3 and Web Security <br>
 🌱 I’m currently learning Blockchain focused on Solidity<br>
-🎒 I’m 1/2 Computer Engineer <i>(until i achieve my financial independence and move to the Himalayas to seek for the meaning of life)(no, not 42)</i><br>
+🎒 I’m 1/2 Computer Engineer <i>(until i achieve my financial independence and move to the Himalayas to seek for the meaning of life)(no, not easy as 42)</i><br>
 <br>
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeksu&hide=html,css,tex&title_color=eeeeee&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  <hr>
