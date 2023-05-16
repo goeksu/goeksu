@@ -13,7 +13,7 @@
 <p align="center">
 ahmet@goksu.in  | 
  <a href="https://www.qrz.com/db/TA7GOK">
- 73 de TA7GOK</a> <a href="https://goeksu.github.io"><img src="https://raw.githubusercontent.com/goeksu/goeksu/main/icons8-resume-button-64.png" width="10"/> Resume</a> </p>
+ 73 de TA7GOK</a> <a href="https://goeksu.github.io"><img src="https://raw.githubusercontent.com/goeksu/goeksu/main/icons8-resume-button-64.png" width="25"/> Resume</a> </p>
 
 <!---
 hey my curious friend. U R AWESOME. 
