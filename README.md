@@ -2,7 +2,7 @@
  <p><a href="https://www.linkedin.com/in/ahmetgoksu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmetgoksu/)](https://www.linkedin.com/in/ahmetgoksu/"></a>
   <a href="https://www.hackerrank.com/goeksu" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/goeksu)](https://www.hackerrank.com/goeksu"></a></p>
 <div>
-<img align="top" src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/ezgif.com-gif-maker-2.gif" align="right" width="300"/> 
+<img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/ezgif.com-gif-maker-2.gif" align="right" width="300"/> 
 <div align="left">
 👀 I’m interested in HAM Radio, Web3 and Web Security <br>
 🌱 I’m currently learning Blockchain focused on Solidity<br>
