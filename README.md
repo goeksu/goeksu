@@ -14,16 +14,14 @@
  
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeksu&hide=html,css,tex&title_color=eeeeee&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  <br>
- <p align="center"><img src="https://raw.githubusercontent.com/goeksu/mylovelysite/master/favicon.ico" align="center" width="150"/> </p>
+ <p align="center"><img src="https://raw.githubusercontent.com/goeksu/mylovelysite/master/favicon.ico" align="center" width="100"/> </p>
  <hr>
 <p align="center">
 ahmet@goksu.in  |
  <a href="https://www.qrz.com/db/TA7GOK">
  73 de TA7GOK</a></p>
 <details align="center">
-
 <summary>PGP</summary>
-
 ```-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZCYK6xYJKwYBBAHaRw8BAQdACG4iVlutYXW8PmWJtCn0OhSl4niqiLUkzHfC
@@ -38,7 +36,6 @@ iP3w1buKpiOeNzPUAP0ehLqICKAAUzShK2qoRenCnOGCcjHM3vE3U5KMd3I+Cg==
 =nKvD
 -----END PGP PUBLIC KEY BLOCK-----
  ```
-
 </details>
 <!---
 hey my curious friend. U R AWESOME. 
