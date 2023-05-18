@@ -14,7 +14,7 @@
  
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeksu&hide=html,css,tex&title_color=eeeeee&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  <br>
- <p align="center"><img src="https://raw.githubusercontent.com/goeksu/mylovelysite/master/favicon.ico" align="center" width="100"/> </p>
+<img align="top" src="https://raw.githubusercontent.com/goeksu/mylovelysite/master/favicon.ico" align="center" width="150"/> 
  <hr>
 <p align="center">
 ahmet@goksu.in  |
