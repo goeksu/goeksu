@@ -16,7 +16,7 @@
 <p align="center">ahmet@goksu.in  |<a href="https://www.qrz.com/db/TA7GOK"> 73 de TA7GOK</a></p>
 <details align="left">
  <summary>me</summary>
-<img src="https://raw.githubusercontent.com/goeksu/mylovelysite/master/favicon.ico" width="150"/>
+<div align="center"><img src="https://raw.githubusercontent.com/goeksu/mylovelysite/master/favicon.ico" width="1500"/></div>
 </details>
 <!---
 hey my curious friend. U R AWESOME. 
