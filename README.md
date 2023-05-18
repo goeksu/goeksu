@@ -23,6 +23,7 @@ ahmet@goksu.in  |
 <details align="center">
 <summary>PGP</summary>
 ```-----BEGIN PGP PUBLIC KEY BLOCK-----
+ 
    mDMEZCYK6xYJKwYBBAHaRw8BAQdACG4iVlutYXW8PmWJtCn0OhSl4niqiLUkzHfC
    OwL6EWa0LkFobWV0IEfDtmtzdSAoYWhtZXQuZ29rc3UuaW4pIDxhaG1ldEBnb2tz
    dS5pbj6IkwQTFgoAOxYhBG0ewylj3fl17H2rkHU4o5QEOFiDBQJkJgrrAhsDBQsJ
@@ -33,6 +34,7 @@ ahmet@goksu.in  |
    OFiDBQJkJgrrAhsMAAoJEHU4o5QEOFiDx+gBAKzRh2fqwtnf0C7AJiB2vPYKfd30
    iP3w1buKpiOeNzPUAP0ehLqICKAAUzShK2qoRenCnOGCcjHM3vE3U5KMd3I+Cg==
    =nKvD
+ 
    -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
