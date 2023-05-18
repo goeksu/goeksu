@@ -22,7 +22,8 @@ ahmet@goksu.in  |
  73 de TA7GOK</a></p>
 <details align="center">
 <summary>PGP</summary>
-```-----BEGIN PGP PUBLIC KEY BLOCK-----\n
+```
+   -----BEGIN PGP PUBLIC KEY BLOCK-----
    mDMEZCYK6xYJKwYBBAHaRw8BAQdACG4iVlutYXW8PmWJtCn0OhSl4niqiLUkzHfC
    OwL6EWa0LkFobWV0IEfDtmtzdSAoYWhtZXQuZ29rc3UuaW4pIDxhaG1ldEBnb2tz
    dS5pbj6IkwQTFgoAOxYhBG0ewylj3fl17H2rkHU4o5QEOFiDBQJkJgrrAhsDBQsJ
