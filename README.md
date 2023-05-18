@@ -19,11 +19,11 @@
 <p align="center">
 ahmet@goksu.in  |
  <a href="https://www.qrz.com/db/TA7GOK">
- 73 de TA7GOK</a></p>
-<details align="center">
+ 73 de TA7GOK</a> | <details>
 <summary>me</summary>
 <div align="center"><img align="top" src="https://raw.githubusercontent.com/goeksu/mylovelysite/master/favicon.ico" align="center" width="150"/> </div>
-</details>
+</details></p>
+
 
 <!---
 hey my curious friend. U R AWESOME. 
