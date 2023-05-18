@@ -20,7 +20,7 @@
 ahmet@goksu.in  |
  <a href="https://www.qrz.com/db/TA7GOK">
  73 de TA7GOK</a></p>
-<details>
+<details align="center">
 
 <summary>PGP</summary>
 
@@ -37,6 +37,7 @@ OFiDBQJkJgrrAhsMAAoJEHU4o5QEOFiDx+gBAKzRh2fqwtnf0C7AJiB2vPYKfd30
 iP3w1buKpiOeNzPUAP0ehLqICKAAUzShK2qoRenCnOGCcjHM3vE3U5KMd3I+Cg==
 =nKvD
 -----END PGP PUBLIC KEY BLOCK-----
+ ```
 
 </details>
 <!---
