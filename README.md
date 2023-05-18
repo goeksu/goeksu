@@ -14,28 +14,14 @@
  
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goeksu&hide=html,css,tex&title_color=eeeeee&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  <br>
-<div align="center"><img align="top" src="https://raw.githubusercontent.com/goeksu/mylovelysite/master/favicon.ico" align="center" width="150"/> </div>
  <hr>
 <p align="center">
 ahmet@goksu.in  |
  <a href="https://www.qrz.com/db/TA7GOK">
  73 de TA7GOK</a></p>
 <details align="center">
-<summary>PGP</summary>
-```
-   -----BEGIN PGP PUBLIC KEY BLOCK-----
-   mDMEZCYK6xYJKwYBBAHaRw8BAQdACG4iVlutYXW8PmWJtCn0OhSl4niqiLUkzHfC
-   OwL6EWa0LkFobWV0IEfDtmtzdSAoYWhtZXQuZ29rc3UuaW4pIDxhaG1ldEBnb2tz
-   dS5pbj6IkwQTFgoAOxYhBG0ewylj3fl17H2rkHU4o5QEOFiDBQJkJgrrAhsDBQsJ
-   CAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEHU4o5QEOFiDWpwA/iM6vxIyZCtR
-   QIqtLsrufSRXnz3DBRpmC0f1Ot8gDSQpAP9vtuIdKVAxGdRYhLvESbrgazSD/55D
-   4fPIahqltH1/Brg4BGQmCusSCisGAQQBl1UBBQEBB0AAgGk/suY2h3L2p50wBS2q
-   YRpEb5qMI+RMgZR1sbzkGwMBCAeIeAQYFgoAIBYhBG0ewylj3fl17H2rkHU4o5QE
-   OFiDBQJkJgrrAhsMAAoJEHU4o5QEOFiDx+gBAKzRh2fqwtnf0C7AJiB2vPYKfd30
-   iP3w1buKpiOeNzPUAP0ehLqICKAAUzShK2qoRenCnOGCcjHM3vE3U5KMd3I+Cg==
-   =nKvD
-   -----END PGP PUBLIC KEY BLOCK-----
-```
+<summary>me</summary>
+<div align="center"><img align="top" src="https://raw.githubusercontent.com/goeksu/mylovelysite/master/favicon.ico" align="center" width="150"/> </div>
 </details>
 
 <!---
