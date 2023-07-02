@@ -36,13 +36,16 @@
     <p>ahmet@goksu.in<br><a href='https://gist.githubusercontent.com/goeksu/13da58698e1dd042274697151bed2509/raw/e0b80bbff12f0bab97ff1903440ec0ce8a54853f/gistfile1.txt'><span title='need to talk private?'>PGP</span></a></p>
 </body>
 
-<script>
-    fetch('https://ipinfo.io')
-        .then(response => response.json())
-        .then(response => {
-            document.getElementById('ip').textContent = response.ip;
-        })
-        .catch(error => console.error('Error:', error));
-</script>
+<script src=
+"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+    </script>
+     
+    <script>
+     
+    $.get("https://ipinfo.io", function(response) {
+           $('#ip').text(response.ip);
+        }, "json")
+         
+    </script>
 
 </html>
