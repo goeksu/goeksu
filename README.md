@@ -5,7 +5,7 @@
 <img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/ezgif.com-gif-maker-2.gif" align="right" width="300"/> 
 <div align="left">
 👀 I’m interested in HAM Radio, Web3 and Web Security <br>
-🌱 I’m currently learning Blockchain focused on Solidity<br>
+🌱 I’m currently learning Blockchain focused on Solidity. Here are my <a href="https://github.com/stars/goeksu/lists/edu">stuff</a> to do before die<br>
 🎒 I’m 1/2 Computer Engineer <i>(until i achieve my financial independence and move to the Himalayas to seek for the meaning of life)(no, not easy as 42)</i></div>
 </div>
 <br>
@@ -19,5 +19,5 @@
 <div align="center"><img src="https://raw.githubusercontent.com/goeksu/mylovelysite/master/favicon.ico" width="150"/></div>
 </details>
 <!---
-hey my curious friend. U R AWESOME. 
+hey my curious friend. U R AWESOME. get in touch w me!
 --->
