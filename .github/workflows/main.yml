@@ -1,0 +1,24 @@
+name: Sync index.html
+
+on:
+  push:
+    paths:
+      - 'index.html'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout source repo
+      uses: actions/checkout@v2
+
+    - name: Push to destination repo
+      run: |
+        git config --global user.name "goeksu"
+        git config --global user.email "ahmet@goksu.in"
+        git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/goeksu/mylovelysite.git
+        cp index.html mylovelysite/
+        cd mylovelysite
+        git add index.html
+        git commit -m "Synced index.html from source repo"
+        git push
