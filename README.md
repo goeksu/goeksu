@@ -4,9 +4,9 @@
 
 <img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/ezgif.com-gif-maker-2.gif" align="right" width="300"/> 
 <div align="left">
-👀 I’m interested in HAM Radio, Web3 and Web Security <br>
+👀 I’m interested in HAM Radio, Web3 and DevOps <br>
 🌱 I’m currently learning Blockchain focused on Solidity. <br>
-🎒 I’m 3/4 Computer Engineer <i>(until i achieve my financial freedom and move to the Himalayas to seek for the meaning of life)(no, not easy as 42)</i><br><br>
+🎒 I’m 1/2 Electronics Engineer <i>(until i achieve my financial freedom and move to the Himalayas to seek for the meaning of life)(no, not easy as 42)</i><br><br>
 📚 Here are my curated <a href="https://github.com/stars/goeksu/lists/edu">stuff</a> to learn before die.<br></div>
 </div>
 <br>
